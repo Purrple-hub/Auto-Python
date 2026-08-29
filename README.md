@@ -1,6 +1,6 @@
 # Auto-Python
 
-img src="https://cdn.simpleicons.org/python/3776AB" width="24" height="24" align="top"> **Auto-Python**  
+<img src="https://cdn.simpleicons.org/python/3776AB" width="24" height="24" align="top">
 
 Lazy Python installer. One script per OS, installs the latest Python and fixes PATH.
 
