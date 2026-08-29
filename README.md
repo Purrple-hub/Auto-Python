@@ -25,3 +25,5 @@ sudo bash Scripts/macos.sh
 ```
 
 That's it. Restart your terminal and run `python --version`.
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-HqQLIbeC_hZY7nThlOtbzK_-i1P9ok0wSa2FQhWuiwMA3X48xy7Pq0&s=10" width="24" height="24" align="top">
