@@ -7,16 +7,19 @@ Lazy Python installer. One script per OS, installs the latest Python and fixes P
 ## Usage
 
 **Windows** (run as Admin):
+<img src="https://cdn.simpleicons.org/windows/0078D6" width="20" height="20" align="top">
 ```powershell
 PowerShell -ExecutionPolicy Bypass -File Scripts/windows.ps1
 ```
 
 **Linux**:
+<img src="https://cdn.simpleicons.org/linux/FCC624" width="20" height="20" align="top">
 ```bash
 sudo bash Scripts/linux.sh
 ```
 
 **Mac**:
+<img src="https://cdn.simpleicons.org/apple/000000" width="20" height="20" align="top">
 ```bash
 sudo bash Scripts/macos.sh
 ```
